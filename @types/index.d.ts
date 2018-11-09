@@ -1,3 +1,5 @@
+import * as PIXI from 'pixi.js/dist/pixi.js';
+
 declare namespace Viewport {
   type DirectionType = "all" | "x" | "y";
 
